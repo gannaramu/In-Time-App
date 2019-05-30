@@ -14,3 +14,8 @@ Please update your credentials in userpass.txt file
 The app also notifies after completion of 9 Hours for the day.
 
 ![alt text](https://raw.githubusercontent.com/gannaramu/In-Time-App/master/completion.PNG)
+
+The app also creates a folder in c:/software/Attendance which can be added to task bar
+
+![alt text](https://raw.githubusercontent.com/gannaramu/In-Time-App/master/taskbar.PNG)
+
