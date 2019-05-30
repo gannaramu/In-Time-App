@@ -9,4 +9,4 @@ Dependencies:
 
 Please update your credentials in userpass.txt file
 
-![alt text](https://raw.githubusercontent.com/gannaramu/In-Time-App/master/snapshot.png)
+![alt text](https://raw.githubusercontent.com/gannaramu/In-Time-App/master/snapshot.PNG)
