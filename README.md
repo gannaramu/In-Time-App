@@ -6,3 +6,5 @@ Dependencies:
   Selenium
   Plyer
   Timer
+
+Please update your credentials in userpass.txt file
