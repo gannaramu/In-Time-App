@@ -8,3 +8,5 @@ Dependencies:
   Timer
 
 Please update your credentials in userpass.txt file
+
+![alt text](https://raw.githubusercontent.com/gannaramu/In-Time-App/branch/snapshot.png)
